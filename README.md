@@ -1,20 +1,12 @@
-### JS_ZERO  an medieval RPG Browser Game built with [Babylon.js](https://www.babylonjs.com/)
+Projects
 
-Try it here: https://to5ta.github.io/js_zero
+* JS_ZERO 
 
-<img src="https://github.com/to5ta/js_zero/raw/main/promotion/promo6.jpg" alt="JS Zero" style="width:50%;"/>
+  ![https://github.com/t o5ta/js_zero/blob/9111400e8ae64f45331832bad3beb8e02cd09631/src/promotion/promo6_cut.PNG](https://github.com/to5ta/js_zero/blob/9111400e8ae64f45331832bad3beb8e02cd09631/src/promotion/promo6_cut.PNG)
 
-<!--
-**to5ta/to5ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   I work on [*JS_ZERO*](https://github.com/to5ta/js_zero), an medieval RPG Browser Game Prototype built with [Babylon.js](https://www.babylonjs.com/)
 
-Here are some ideas to get you started:
+   ⚔️ Try it out here:  https://staib.dev/games/js_zero/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
